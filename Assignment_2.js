@@ -1,5 +1,5 @@
 console.log("Mahmoud Sami");
-function sum(a, b) {
-  return a + b;
+function mul(a, b) {
+  return a * b;
 }
-console.log(sum(5, 10));
+console.log(mul(5, 10));
